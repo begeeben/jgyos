@@ -1,0 +1,23 @@
+{
+  "name": "jgyos",
+  "version": "0.0.1",
+  "description": "The build script for jgyos",
+  "main": "make.js",
+  "scripts": {
+    "make": "make.js",
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgyos/jgyos.git"
+  },
+  "keywords": [
+    "jgyos"
+  ],
+  "author": "Yi-Fan Liao <begeeben@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jgyos/jgyos/issues"
+  },
+  "homepage": "https://github.com/jgyos/jgyos#readme"
+}
